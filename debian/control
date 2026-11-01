@@ -1,0 +1,20 @@
+Source: kosmos-mods
+Section: metapackages
+Priority: Optional
+Maintainer: Matteo Piscitelli <matteo@matteopiscitelli.it>
+Standards-Version: 4.6.2
+Build-Depends: debhelper-compat (= 13)
+
+Package: kosmos-mods
+Architecture: all
+Depends:
+ kosmos-headless,
+ kosmos-plasma-theme,
+ kosmos-autologin,
+ kosmos-welcome,
+ kosmos-plasma-theme,
+ kosmos-notifications,
+ kosmos-desktop-defaults,
+ kosmos-samba-mods
+Description: Metapackage to install KosmOS tweaks and configs.
+ This metapackage installs all KosmOS system tweaks and configs.
