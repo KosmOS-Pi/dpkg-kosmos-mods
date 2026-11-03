@@ -1,15 +1,11 @@
-kosmos-mods (1.6-1) trixie; urgency=medium
+kosmos-mods (1.5-1~deb13) trixie; urgency=medium
 
-  * Add kosmos-desktop-defaults to deps.
-  * Move /etc/kosmos_version to 2.0 (trixie).
+  * Review deps (some moved to new kosmos-desktop 
+    package).
+  * Update /etc/kosmos_version to 2.0 (trixie).
+  * Update version to new convention.
 
  -- Matteo Piscitelli <matteo@matteopiscitelli.it>  Sun, 01 Nov 2026 20:17:07 +0100
-
-kosmos-mods (1.5) bookworm; urgency=medium
-
-  * Add /etc/kosmos_version.
-
- -- Matteo Piscitelli <matteo@matteopiscitelli.it>  Sun, 01 Nov 2026 20:16:23 +0100
 
 kosmos-mods (1.4) bookworm; urgency=medium
 

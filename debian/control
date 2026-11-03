@@ -9,12 +9,7 @@ Package: kosmos-mods
 Architecture: all
 Depends:
  kosmos-headless,
- kosmos-plasma-theme,
  kosmos-autologin,
- kosmos-welcome,
- kosmos-plasma-theme,
- kosmos-notifications,
- kosmos-desktop-defaults,
  kosmos-samba-mods
 Description: Metapackage to install KosmOS tweaks and configs.
  This metapackage installs all KosmOS system tweaks and configs.
