@@ -1,3 +1,9 @@
+kosmos-mods (1.5-2~deb13) trixie; urgency=medium
+
+  * Remove kosmos-headless dep.
+
+ -- Matteo Piscitelli <matteo@matteopiscitelli.it>  Thu, 05 Nov 2026 17:16:47 +0100
+
 kosmos-mods (1.5-1~deb13) trixie; urgency=medium
 
   * Review deps (some moved to new kosmos-desktop 
